@@ -1,6 +1,5 @@
-<div style="text-align: center;">
-    <img style="width: 100%; height: 150px;" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnBoYnF5OWl6MHdqa3U1OXJjdGNsMXYzY2l3ZHZ5aGJ0a3E5empieCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DpwR3GnZqB3Chqkgf8/giphy.webp/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" />
-</div>
+<img align="right" height="150" src="https://i.giphy.com/RlwF2vFb4y7bDnWvcO.webp"  />
+
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&color=FF5733&center=true&vCenter=true&width=500&height=70&duration=3500&lines=Hola!+✌️;+I'm+Anvin!;+Welcome+to+my+GitHub+Profile!" />
