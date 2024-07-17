@@ -1,34 +1,6 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <style>
-        body, html {
-            height: 100%;
-            margin: 0;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            background-color: #121212; /* dark background */
-        }
-        .center-image {
-            text-align: center;
-        }
-        .center-image img {
-            width: 100%;
-            height: 150px;
-        }
-    </style>
-</head>
-<body>
-    <div class="center-image">
-        <img src="https://steamuserimages-a.akamaihd.net/ugc/97230938372796271/55E6E36D887714CE7C8BD17BAF2BB745401E89BB/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" />
-    </div>
-</body>
-</html>
-
-
+<div style="text-align: center;">
+    <img style="width: 50%; height: 150px;" src="https://steamuserimages-a.akamaihd.net/ugc/97230938372796271/55E6E36D887714CE7C8BD17BAF2BB745401E89BB/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" />
+</div>
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&color=FF5733&center=true&vCenter=true&width=500&height=70&duration=3500&lines=Hola!+✌️;+I'm+Anvin!;+Welcome+to+my+GitHub+Profile!" />
