@@ -10,13 +10,7 @@
     </div>
 </div>
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=obsidianspecter&label=Profile%20views&color=0e75b6&style=flat" alt="obsidianspecter" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=obsidianspecter" alt="obsidianspecter" /></a> </p>
-
 - 🔭 I’m currently working on **AI-Powered Data Analysis System**
-
 - 🌱 I’m currently learning:
 
 **Frameworks:**
@@ -28,6 +22,8 @@
 - Andrew Ng's Machine Learning course on Coursera
 - Stanford University's Natural Language Processing with Deep Learning Specialization on Coursera
 - DataCamp's Introduction to Deep Learning in Python course
+
+<img src="https://raw.githubusercontent.com/obsidianspecter/obsidianspecter/output/snake.svg" alt="Snake animation" />
 
 ### 🌟 Personal Interests
 
