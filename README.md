@@ -1,5 +1,5 @@
 <div style="text-align: center;">
-    <img style="width: 100%; height: 150px;" src="https://giphy.com/gifs/water-rain-splash-RlwF2vFb4y7bDnWvcO" />
+    <img style="width: 100%; height: 150px;" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG1ucWhyaG13dzhobDAwYzk5cDk2eHJyZ2F0ZzlicW1vcGJuaXp5diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Va6MuZFI95flfYNMNs/giphy.webp" />
 </div>
 
 
