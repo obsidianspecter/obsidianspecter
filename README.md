@@ -23,6 +23,8 @@
 - Stanford University's Natural Language Processing with Deep Learning Specialization on Coursera
 - DataCamp's Introduction to Deep Learning in Python course
 
+<br clear="both">
+
 <img src="https://raw.githubusercontent.com/obsidianspecter/obsidianspecter/output/snake.svg" alt="Snake animation" />
 
 ### 🌟 Personal Interests
