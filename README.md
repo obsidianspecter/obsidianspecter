@@ -1,14 +1,8 @@
 <div style="text-align: center;">
-    <img style="width: 100%; height: 150px;" src="" />
+    <img style="width: 100%; height: 150px;" src="https://giphy.com/gifs/water-rain-splash-RlwF2vFb4y7bDnWvcO" />
 </div>
 
 
-<div class="center-container">
-        <div style="text-align: center;">
-            <iframe src="https://giphy.com/embed/RlwF2vFb4y7bDnWvcO" width="480" height="480" style="" frameborder="0" class="giphy-embed" allowfullscreen></iframe>
-            <p><a href="https://giphy.com/gifs/water-rain-splash-RlwF2vFb4y7bDnWvcO">via GIPHY</a></p>
-        </div>
-    </div>
 
 
 <h1 align="center">
