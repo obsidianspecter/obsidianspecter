@@ -1,3 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Neon Glowing Header</title>
+    <style>
+        .neonText {
+            font-family: 'Righteous', sans-serif;
+            font-size: 35px;
+            color: #ff5733;
+            text-shadow: 0 0 5px #ff5733, 0 0 10px #ff5733, 0 0 20px #ff5733, 0 0 40px #ff5733, 0 0 80px #ff5733, 0 0 90px #ff5733, 0 0 100px #ff5733, 0 0 150px #ff5733;
+            animation: neonGlow 1.5s ease-in-out infinite alternate;
+            text-align: center;
+        }
+
+        @keyframes neonGlow {
+            from {
+                text-shadow: 0 0 5px #ff5733, 0 0 10px #ff5733, 0 0 20px #ff5733, 0 0 40px #ff5733, 0 0 80px #ff5733, 0 0 90px #ff5733, 0 0 100px #ff5733, 0 0 150px #ff5733;
+            }
+            to {
+                text-shadow: 0 0 20px #ff5733, 0 0 30px #ff5733, 0 0 40px #ff5733, 0 0 50px #ff5733, 0 0 100px #ff5733, 0 0 150px #ff5733, 0 0 200px #ff5733, 0 0 300px #ff5733;
+            }
+        }
+    </style>
+</head>
+<body>
+    <h1 class="neonText">
+        Hola! ✌️ I'm Arjun Sudheer! Welcome to my GitHub Profile!
+    </h1>
+</body>
+</html>
+
+
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&color=FF5733&center=true&vCenter=true&width=500&height=70&duration=3500&lines=Hola!+✌️;+I'm+Anvin!;+Welcome+to+my+GitHub+Profile!" />
 </h1>
