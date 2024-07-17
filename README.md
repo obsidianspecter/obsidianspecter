@@ -1,4 +1,4 @@
-<div style="text-align: center;">
+<div style="text-align: right;">
     <img height="150" src="https://steamuserimages-a.akamaihd.net/ugc/97230938372796271/55E6E36D887714CE7C8BD17BAF2BB745401E89BB/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" />
 </div>
 <div style="text-align: center;">
