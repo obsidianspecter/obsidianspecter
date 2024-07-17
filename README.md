@@ -1,6 +1,3 @@
-<div style="text-align: center;">
-    <img style="width: 100%; height: 150px;" src="https://media.giphy.com/media/RlwF2vFb4y7bDnWvcO/giphy.gif" />
-</div>
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&color=FF5733&center=true&vCenter=true&width=500&height=70&duration=3500&lines=こんにちは!+✌️;+I'm Anvin!;+Welcome+to+my+GitHub+Profile!" />
