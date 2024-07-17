@@ -2,8 +2,8 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&color=FF5733&center=true&vCenter=true&width=500&height=70&duration=3500&lines=Hola!+✌️;+I'm+Anvin!;+Welcome+to+my+GitHub+Profile!" />
 </h1>
-### 📖 About Me
 
+## 📖 About Me
 <div style="display: flex; align-items: center; justify-content: space-between;">
     <div>
         I'm Anvin, a dedicated and driven Computer Science Engineering student at Sri Ramakrishna Engineering College, Coimbatore. My journey in technology is fueled by a love for learning and a deep interest in data science, machine learning, artificial intelligence, and web development. I thrive on challenges and constantly set goals for myself to push the boundaries of what I can achieve. I'm always looking for opportunities to dive into data, uncover hidden insights, build innovative web solutions, and grow as a developer and data scientist.
