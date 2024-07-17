@@ -1,4 +1,4 @@
-
+<iframe src="https://giphy.com/embed/RlwF2vFb4y7bDnWvcO" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/water-rain-splash-RlwF2vFb4y7bDnWvcO">via GIPHY</a></p>
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&color=FF5733&center=true&vCenter=true&width=500&height=70&duration=3500&lines=こんにちは!+✌️;+I'm+Anvin!;+Welcome+to+my+GitHub+Profile!" />
 </h1>
