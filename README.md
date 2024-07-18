@@ -1,12 +1,9 @@
-<div style="text-align: center;">
-    <img style="width: 100%; height: 150px;" src="https://itunes.apple.com/app/apple-store/id917932200?pt=39040802&ct=Media1GIFV2&mt=8" />
-</div>
 
 
 
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&color=FF5733&center=true&vCenter=true&width=500&height=70&duration=3500&lines=こんにちは!+✌️;+I'm+Anvin!;+Welcome+to+my+GitHub+Profile!" />
+    <img src="https://readme-typing-svg.herokuapp.com/demo/?font=man+rope&duration=5003&color=F2F729&background=30FFB800&lines=Hello!+I'm+Anvin.+Welcome+to+my+GitHub!;%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF!+%E7%A7%81%E3%81%AF%E3%82%A2%E3%83%B3%E3%83%B4%E3%82%A3%E3%83%B3%E3%81%A7%E3%81%99%E3%80%82%E7%A7%81%E3%81%AEGitHub%E3%81%B8%E3%82%88%E3%81%86%E3%81%93%E3%81%9D!;%E0%A4%A8%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%87!+%E0%A4%AE%E0%A5%88%E0%A4%82+%E0%A4%85%E0%A4%A8%E0%A5%8D%E0%A4%B5%E0%A4%BF%E0%A4%A8+%E0%A4%B9%E0%A5%82%E0%A4%81%E0%A5%A4+%E0%A4%AE%E0%A5%87%E0%A4%B0%E0%A5%87+GitHub+%E0%A4%AE%E0%A5%87%E0%A4%82+%E0%A4%86%E0%A4%AA%E0%A4%95%E0%A4%BE+%E0%A4%B8%E0%A5%8D%E0%A4%B5%E0%A4%BE%E0%A4%97%E0%A4%A4+%E0%A4%B9%E0%A5%88!;%C2%A1Hola!+Soy+Anvin.+%C2%A1Bienvenido+a+mi+GitHub!;%E0%B4%B9%E0%B4%B2%E0%B5%8B!+%E0%B4%9E%E0%B4%BE%E0%B5%BB+%E0%B4%85%E0%B4%A8%E0%B5%8D%E0%B4%B5%E0%B4%BF%E0%B5%BB+%E0%B4%86%E0%B4%A3%E0%B5%8D.+%E0%B4%8E%E0%B4%A8%E0%B5%8D%E0%B4%B1%E0%B5%86+GitHub-%E0%B4%B2%E0%B5%87%E0%B4%95%E0%B5%8D%E0%B4%95%E0%B5%8D+%E0%B4%B8%E0%B5%8D%E0%B4%B5%E0%B4%BE%E0%B4%97%E0%B4%A4%E0%B4%82!;%E0%AE%B5%E0%AE%A3%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AE%AE%E0%AF%8D!+%E0%AE%A8%E0%AE%BE%E0%AE%A9%E0%AF%8D+%E0%AE%85%E0%AE%A9%E0%AF%8D%E0%AE%B5%E0%AE%BF%E0%AE%A9%E0%AF%8D.+%E0%AE%8E%E0%AE%A9%E0%AF%8D+GitHub-%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AF%81+%E0%AE%B5%E0%AE%B0%E0%AE%B5%E0%AF%87%E0%AE%B1%E0%AF%8D%E0%AE%95%E0%AE%BF%E0%AE%B1%E0%AF%87%E0%AE%A9%E0%AF%8D!" />
 </h1>
 
 ## 📖 About Me
