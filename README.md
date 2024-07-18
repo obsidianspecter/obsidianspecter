@@ -1,43 +1,6 @@
 <div style="text-align: center;">
     <img style="width: 100%; height: 150px;" src="https://itunes.apple.com/app/apple-store/id917932200?pt=39040802&ct=Media1GIFV2&mt=8" />
 </div>
-<h1 align="center" style="font-family: 'Righteous', cursive; font-size: 35px; color: #FF5733; text-shadow: 
-                0 0 10px #FF5733,
-                0 0 20px #FF5733,
-                0 0 30px #FF5733,
-                0 0 40px #FF5733,
-                0 0 50px #FF5733,
-                0 0 60px #FF5733,
-                0 0 70px #FF5733; animation: neon 1.5s ease-in-out infinite alternate;">
-    こんにちは! ✌️<br>I'm Anvin!<br>Welcome to my GitHub Profile!
-</h1>
-
-<style>
-    @import url('https://fonts.googleapis.com/css2?family=Righteous&display=swap');
-
-    @keyframes neon {
-        from {
-            text-shadow: 
-                0 0 10px #FF5733,
-                0 0 20px #FF5733,
-                0 0 30px #FF5733,
-                0 0 40px #FF5733,
-                0 0 50px #FF5733,
-                0 0 60px #FF5733,
-                0 0 70px #FF5733;
-        }
-        to {
-            text-shadow: 
-                0 0 20px #FF5733,
-                0 0 30px #FF5733,
-                0 0 40px #FF5733,
-                0 0 50px #FF5733,
-                0 0 60px #FF5733,
-                0 0 70px #FF5733,
-                0 0 80px #FF5733;
-        }
-    }
-</style>
 
 
 
