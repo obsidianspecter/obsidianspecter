@@ -1,4 +1,5 @@
-![snake gif](https://github.com/obsidianspecter/obsidianspecter/blob/output/github-contribution-grid-snake.svg)
+<img src="https://raw.githubusercontent.com/obsidianspecter/obsidianspecter/output/snake.svg" alt="Snake animation" />
+
 
 
 
