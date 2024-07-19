@@ -11,14 +11,17 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout Repository
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
+      
       - name: Generate Snake Animation
         uses: Platane/snk@v2
         with:
           github_user_name: obsidianspecter
           output: github-contribution-grid-snake.svg
+      
       - name: Commit and Push Changes
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
           commit_message: "Generated snake animation"
           branch: output
+          file: github-contribution-grid-snake.svg
