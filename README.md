@@ -95,6 +95,15 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=obsidianspecter&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=obsidianspecter&" alt="obsidianspecter" />
 </div>
+## GitHub Stats
+
+<!-- CUSTOM GITHUB README STATS HOSTED ON VERCEL -->
+<!-- Domain: github-readme-stats-dga59piw8-obsidianspecter.vercel.app -->
+![Ashwin's GitHub Stats](https://github-readme-stats-dga59piw8-obsidianspecter.vercel.app/api?username=obsidianspecter&show_icons=true&theme=dark&hide_border=false)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=obsidianspecter&theme=dark)](https://git.io/streak-stats)
+
+## Recent Badges
 
 ## 🤝 Let's Connect
 
