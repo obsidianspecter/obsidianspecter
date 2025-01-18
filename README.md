@@ -39,6 +39,7 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/obsidianspecter/obsidianspecter/output/snake.svg" alt="Snake animation" />
+<a href="https://app.daily.dev/obsidian"><img src="https://api.daily.dev/devcards/v2/QQTFGUsUSjB5UvuoLzlQ1.png?type=default&r=vdm" width="356" alt="N7's Dev Card"/></a>
 
 ### 🌟 Personal Interests
 
